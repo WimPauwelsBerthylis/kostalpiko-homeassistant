@@ -3,11 +3,11 @@
   "name": "Kostal",
   "version": "1.0.0",
   "config_flow": true,
-  "documentation": "https://github.com/DjFabFab/kostalpiko-hacs",
+  "documentation": "https://github.com/WimPauwelsBerthylis/kostalpiko-homeassistant",
   "requirements": ["kostalpyko==0.5"],
   "ssdp": [],
   "zeroconf": [],
   "homekit": {},
   "dependencies": [],
-  "codeowners": ["@djfabfab"]
+  "codeowners": ["@WimPauwelsBerthylis"]
 }
