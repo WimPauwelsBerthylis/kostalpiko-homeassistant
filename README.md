@@ -1,4 +1,4 @@
-# kostalpiko-sensor-hacs
+# kostalpiko-homeassistant
 A custom component to get the readings of a Kostal Piko inverter NOT the Plenticore inverter
 
 Since the component is based on web scraping from the web server interface, your web server should look like this.
